@@ -1,1 +1,2 @@
-# flapy_bird_3
+# Flappy-bird-by-Niraj-k-
+Flappy bird by Niraj k !
